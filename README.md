@@ -1,3 +1,3 @@
-# Sobre este Projeto
+# Sobre este Repositório
 
-Projeto para cadastrar um usuário com login e senha, logar com os dados pressupostos e assim cadastrar os dados de uma matéria a este usuário.
+Apresentação de testes e projeto passados ao longo do curso de Linguagem de Programação 2.
