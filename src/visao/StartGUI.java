@@ -98,6 +98,7 @@ public class StartGUI extends JFrame {
 	public JButton getBtnCadastra() {
 		return btnCadastra;
 	}
+
 	/**
 	 * Método para retornar variável do tipo JButton visada para ser utilizada no login 
 	 * de um Usuario previamente cadastrado
@@ -105,6 +106,7 @@ public class StartGUI extends JFrame {
 	public JButton getBtnLogin() {
 		return btnLogin;
 	}
+
 	/**
 	 * Método para retornar variável do tipo JButton visada para encerrar o programa
 	 * */

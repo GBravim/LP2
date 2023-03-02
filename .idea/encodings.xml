@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/controlador/ListenCadastro.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/controlador/ListenCurso.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/controlador/ListenLogin.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/controlador/ListenStart.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/modelo/Usuario.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/visao/CadastroGUI.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/visao/CursoGUI.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/visao/LoginGUI.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/visao/StartGUI.java" charset="windows-1252" />
+  </component>
+</project>
